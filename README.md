@@ -34,8 +34,9 @@ I'm an aspiring cybersecurity professional with a strong focus on security resea
 
 ## 📈 GitHub Stats
 <p align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nexs8&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nexs8&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=Nexs8&show_icons=true&theme=radical" alt="Nexs8's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexs8&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## ✨ Learning & Goals
