@@ -1,8 +1,8 @@
-<img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" alt="soura-banner">
+<img src="https://c.tenor.com/tRUBXT5AFWwAAAAd/hacking.gif" alt="Hacking Banner" style="width:100%;">
 
 <h1 align="center">Hello, I'm Nexs8 <img src="https://media.giphy.com/media/E6U8Pd6bzotoP9Wqz4/giphy.gif" width="55"></h1>
 <h3 align="center"><i>A Passionate Cybersecurity Enthusiast</i></h3>
-<img align="right" alt="Coding" width="300" src="https://valesh.dev/images/coder.gif">
+<img align="right" alt="Coding" width="300" src="https://c.tenor.com/I0d8chGftxEAAAAC/hacker-coding.gif">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nexs8&label=Profile%20views&color=0e75b6&style=flat" alt="Nexs8" />
